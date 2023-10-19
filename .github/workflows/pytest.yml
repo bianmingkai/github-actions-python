@@ -1,5 +1,5 @@
 name: pytest # this is the name of workflow
-on: #define how to trigger this workflow, workflow_dispatch means trigger it manually
+on: workflow_dispatch #define how to trigger this workflow, workflow_dispatch means trigger it manually
 
 jobs:
 
