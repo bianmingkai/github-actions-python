@@ -1,5 +1,5 @@
 """
-In this sample, the Flask ganjiangsumeinv app object is contained within the
+In this sample, the Flask nanjing and hangzhou de meinv app object is contained within the
 hello_app *module*; that is, hello_app contains an __init__.py
 along with relative imports. Because of this structure,
 a file like webapp.py cannot be run directly as the startup
