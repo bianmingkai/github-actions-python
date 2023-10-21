@@ -11,4 +11,6 @@ def test_some_primes():
         if not any(num % div == 0 for div in range(2, num))
     }
 
+
+
     
